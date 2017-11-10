@@ -1,6 +1,8 @@
 # eslint-plugin-ascii
 ESLint plugin to detect non-ascii characters in JavaScript source code.
 
+[![NPM](https://nodei.co/npm/eslint-plugin-ascii.png)](https://nodei.co/npm/eslint-plugin-ascii/)
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
