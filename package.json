@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ascii",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ESLint plugin to detect non-ascii characters from JavaScript source code.",
   "main": "index.js",
   "scripts": {
