@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jsus1/eslint-plugin-ascii#readme",
   "devDependencies": {
-    "eslint": "^4.10.0",
+    "eslint": "^9.7.0",
     "mocha": "^4.0.1"
   }
 }
